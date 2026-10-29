@@ -1,0 +1,15 @@
+# Python cache és futási fájlok
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuális környezet
+venv/
+.venv/
+env/
+
+# PyCharm beállítások
+.idea/
+
+# Esetleges érzékeny adatok
+.env
